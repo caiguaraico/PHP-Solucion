@@ -1,0 +1,30 @@
+
+PARTE 01:
+Proyecto: AppParte01
+- ChangeString.cs
+- CompleteRange .cs
+- MoneyParts.cs
+
+
+
+PARTE 02:
+Proyecto: mvc3Lado
+
+
+Web API XML
+
+Todas Sucursales
+http://localhost:[puerto]/api/sucursalservices
+
+Sucursal Por Banco
+http://localhost:[puerto]/api/sucursalservices/1
+
+
+
+Web API JSon
+
+Todas las Ordenes de Pago
+http://localhost:[puerto]/apijson/ordenpagojson
+
+Ordenes de Pago Por Sucursal
+http://localhost:[puerto]/apijson/ordenpagojson/orden/1
